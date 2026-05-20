@@ -3,8 +3,7 @@
 A comprehensive Power BI dashboard analyzing 17 seasons of IPL data — from 2008 to 2025.
 
 ## Dashboard Preview
-![IPL Dashboard](Screenshot%202026-04-10%20140409.png)
-
+![IPL Dashboard](Screenshot%202026-05-20%20113442.png)
 ## Overview
 This dashboard provides end-to-end analysis of IPL matches, players, and team performance across all seasons.
 
